@@ -70,7 +70,7 @@ MacOS High Sierra 10.13.x
 
 -Built in keyboard
 
--Native USB 3.0/USB 2.0
+-Native USB 3.0/USB 3.1
 
 -AppleHDA native audio, including headphones
 
@@ -101,4 +101,4 @@ MacOS High Sierra 10.13.x
 - [Apple](https://www.apple.com) for macOS
 - [Acidanthera](https://github.com/acidanthera/OpenCorePkg) for OpenCorePkg
 - [zxystd]( https://github.com/OpenIntelWireless) for Intel WI-FI driver provided
-- 
+  
