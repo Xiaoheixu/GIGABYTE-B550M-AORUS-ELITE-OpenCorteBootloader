@@ -44,12 +44,6 @@ MacOS High Sierra 10.13.x
 
 -Power management
 
--Battery status
-
--Backlight control
-
--Nuclear display driver
-
 -Wired Ethernet card
 
 -Mac App Store Apple ID is running normally
