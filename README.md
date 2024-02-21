@@ -94,7 +94,6 @@ MacOS High Sierra 10.13.x
 
 -Bluetooth (replace Bcm943602cdp)
 
--Touchpad (some gesture support)
 
 -IMessage/FaceTime
 ##### Credits
