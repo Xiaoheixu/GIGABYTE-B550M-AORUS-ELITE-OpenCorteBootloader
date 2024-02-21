@@ -1,0 +1,1 @@
+# GIGABYTE-B550M-AORUS-ELITE-OpenCorteBootloader
