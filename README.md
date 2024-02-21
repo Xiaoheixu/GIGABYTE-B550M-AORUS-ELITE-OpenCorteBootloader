@@ -97,3 +97,7 @@ MacOS High Sierra 10.13.x
 -Touchpad (some gesture support)
 
 -IMessage/FaceTime
+##### Credits
+- [Apple](https://www.apple.com) for macOS
+- [Acidanthera](https://github.com/acidanthera/OpenCorePkg) for OpenCorePkg
+- 
