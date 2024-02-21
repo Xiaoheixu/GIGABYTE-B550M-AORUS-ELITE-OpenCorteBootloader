@@ -27,8 +27,6 @@ MacOS High Sierra 10.13.x
 
 -Enable UEFI mode
 
--Shield independent graphics card
-
 -Disable secure startup.
 #### Functionality for normal operation
 
