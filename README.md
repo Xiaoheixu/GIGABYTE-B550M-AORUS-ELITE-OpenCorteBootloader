@@ -100,4 +100,5 @@ MacOS High Sierra 10.13.x
 ##### Credits
 - [Apple](https://www.apple.com) for macOS
 - [Acidanthera](https://github.com/acidanthera/OpenCorePkg) for OpenCorePkg
+- [zxystd]( https://github.com/OpenIntelWireless) for Intel WI-FI driver provided
 - 
