@@ -1,6 +1,7 @@
 # GIGABYTE-B550M-AORUS-ELITE-OpenCorteBootloader
 [![pFtOAEV.jpg](https://s11.ax1x.com/2024/02/21/pFtOAEV.jpg)](https://imgse.com/i/pFtOAEV)
 ## Applicable system
+[![pFN2zFI.png](https://s11.ax1x.com/2024/02/22/pFN2zFI.png)](https://imgse.com/i/pFN2zFI)
 
 MacOS Sonoma14. x
 
